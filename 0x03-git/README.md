@@ -1,1 +1,1 @@
-*Readme for git project*
+*Readme for git project,adding bash, C and javascript files*
