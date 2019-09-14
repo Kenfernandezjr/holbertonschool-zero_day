@@ -1,2 +1,1 @@
-*Winner*
-
+*Winner for this mindset*
